@@ -1,6 +1,8 @@
-# Tribute Page
+## [Tribute Page](https://nhxv.github.io/FCC-samuel-beckett-tribute/)
+A FCC Responsive Web Design Project.
 
-FCC Responsive Web Design Projects: Build a Tribute Page.
+## Requirement
+Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
@@ -19,4 +21,9 @@ User Story #7: I should see an a element with a corresponding id="tribute-link",
 User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 
 User Story #9: The img element should be centered within its parent element.
+
+## Built with
+HTML, CSS
+
+
 
