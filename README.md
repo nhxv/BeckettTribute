@@ -2,7 +2,7 @@
 A FCC Responsive Web Design Project.
 
 ## Requirement
-Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
+>Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
