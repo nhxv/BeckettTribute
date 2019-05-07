@@ -1,5 +1,5 @@
 ## [Tribute Page](https://nhxv.github.io/FCC-samuel-beckett-tribute/)
-A FCC Responsive Web Design Project.
+A Responsive Web Design Project.
 
 ### Requirements
 >Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
