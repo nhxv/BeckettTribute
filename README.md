@@ -1,4 +1,4 @@
-## [Tribute Page](https://nhxv.github.io/FCC-samuel-beckett-tribute/)
+## [Tribute Page](https://nhxv.github.io/fcc-samuel-beckett-tribute/)
 A Responsive Web Design Project.
 
 ### Requirements
